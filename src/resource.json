@@ -1,0 +1,1004 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "kami": "秋の田の かりほの庵の 苫をあらみ",
+            "simo": "我が衣手は 露にぬれつつ",
+            "kamiKana": "あきのたの かりほのいほの とまをあらみ",
+            "simoKana": "わがころもでは つゆにぬれつつ",
+            "author": "天智天皇",
+            "authorKana": "てんじてんのう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/04/Hyakuninisshu_001.jpg"
+        },
+        {
+            "id": 2,
+            "kami": "春過ぎて 夏来にけらし 白妙の",
+            "simo": "衣ほすてふ 天の香具山",
+            "kamiKana": "はるすぎて なつきにけらし しろたへの",
+            "simoKana": "ころもほすてふ あまのかぐやま",
+            "author": "持統天皇",
+            "authorKana": "じとうてんのう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/9/95/Hyakuninisshu_002.jpg"
+        },
+        {
+            "id": 3,
+            "kami": "あしびきの 山鳥の尾の しだり尾の",
+            "simo": "ながながし夜を ひとりかも寝む",
+            "kamiKana": "あしびきの やまどりのをの しだりをの",
+            "simoKana": "ながながしよを ひとりかもねむ",
+            "author": "柿本人麻呂",
+            "authorKana": "かきのもとのひとまろ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Hyakuninisshu_003.jpg"
+        },
+        {
+            "id": 4,
+            "kami": "田子の浦に うちいでてみれば 白妙の",
+            "simo": "富士の高嶺に 雪は降りつつ",
+            "kamiKana": "たごのうらに うちいでてみれば しろたへの",
+            "simoKana": "ふじのたかねに ゆきはふりつつ",
+            "author": "山部赤人",
+            "authorKana": "やまべのあかひと",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/3/37/Hyakuninisshu_004.jpg"
+        },
+        {
+            "id": 5,
+            "kami": "奥山に もみぢふみわけ なく鹿の",
+            "simo": "声聞く時ぞ 秋はかなしき",
+            "kamiKana": "おくやまに もみぢふみわけ なくしかの",
+            "simoKana": "こゑきくときぞ あきはかなしき",
+            "author": "猿丸太夫",
+            "authorKana": "さるまるだゆう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/c/cd/Hyakuninisshu_005.jpg"
+        },
+        {
+            "id": 6,
+            "kami": "かささぎの 渡せる橋に おく霜の",
+            "simo": "白きをみれば 夜ぞふけにける",
+            "kamiKana": "かささぎの わたせるはしに おくしもの",
+            "simoKana": "しろきをみれば よぞふけにける",
+            "author": "中納言家持",
+            "authorKana": "ちゅうなごんやかもち",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Hyakuninisshu_006.jpg"
+        },
+        {
+            "id": 7,
+            "kami": "天の原 ふりさけみれば 春日なる",
+            "simo": "三笠の山に いでし月かも",
+            "kamiKana": "あまのはら ふりさけみれば かすがなる",
+            "simoKana": "みかさのやまに いでしつきかも",
+            "author": "阿倍仲麻呂",
+            "authorKana": "あべのなかまろ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/4/46/Hyakuninisshu_007.jpg"
+        },
+        {
+            "id": 8,
+            "kami": "わが庵は 都のたつみ しかぞすむ",
+            "simo": "世をうぢ山と 人はいふなり",
+            "kamiKana": "わがいほは みやこのたつみ しかぞすむ",
+            "simoKana": "よをうぢやまと ひとはいふなり",
+            "author": "喜撰法師",
+            "authorKana": "きせんほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Hyakuninisshu_008.jpg"
+        },
+        {
+            "id": 9,
+            "kami": "花の色は うつりにけりな いたづらに",
+            "simo": "わが身よにふる ながめせしまに",
+            "kamiKana": "はなのいろは うつりにけりな いたづらに",
+            "simoKana": "わがみよにふる ながめせしまに",
+            "author": "小野小町",
+            "authorKana": "おののこまち",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/Hyakuninisshu_009.jpg"
+        },
+        {
+            "id": 10,
+            "kami": "これやこの 行くも帰るも わかれては",
+            "simo": "しるもしらぬも 逢坂の関",
+            "kamiKana": "これやこの ゆくもかへるも わかれては",
+            "simoKana": "しるもしらぬも あふさかのせき",
+            "author": "蝉丸",
+            "authorKana": "せみまる",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/29/Hyakuninisshu_010.jpg"
+        },
+        {
+            "id": 11,
+            "kami": "わたの原 八十島かけて こぎいでぬと",
+            "simo": "人にはつげよ あまのつり舟",
+            "kamiKana": "わたのはら やそしまかけて こぎいでぬと",
+            "simoKana": "ひとにはつげよ あまのつりぶね",
+            "author": "参議篁",
+            "authorKana": "さんぎたかむら",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/7/7e/Hyakuninisshu_011.jpg"
+        },
+        {
+            "id": 12,
+            "kami": "天つ風 雲のかよひ路 吹きとぢよ",
+            "simo": "をとめの姿 しばしとどめむ",
+            "kamiKana": "あまつかぜ くものかよひぢ ふきとぢよ",
+            "simoKana": "をとめのすがた しばしとどめむ",
+            "author": "僧正遍昭",
+            "authorKana": "そうじょうへんじょう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Hyakuninisshu_012.jpg"
+        },
+        {
+            "id": 13,
+            "kami": "つくばねの 峰よりおつる みなの川",
+            "simo": "恋ぞつもりて 淵となりぬる",
+            "kamiKana": "つくばねの みねよりおつる みなのがは",
+            "simoKana": "こひぞつもりて ふちとなりぬる",
+            "author": "陽成院",
+            "authorKana": "ようぜいいん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_013.jpg"
+        },
+        {
+            "id": 14,
+            "kami": "みちのくの しのぶもぢずり 誰ゆゑに",
+            "simo": "みだれそめにし 我ならなくに",
+            "kamiKana": "みちのくの しのぶもぢずり たれゆゑに",
+            "simoKana": "みだれそめにし われならなくに",
+            "author": "河原左大臣",
+            "authorKana": "かわらのさだいじん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/Hyakuninisshu_014.jpg"
+        },
+        {
+            "id": 15,
+            "kami": "君がため 春の野に出でて 若菜つむ",
+            "simo": "わが衣手に 雪はふりつつ",
+            "kamiKana": "きみがため はるののにいでて わかなつむ",
+            "simoKana": "わがころもでに ゆきはふりつつ",
+            "author": "光孝天皇",
+            "authorKana": "こうこうてんのう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/05/Hyakuninisshu_015.jpg"
+        },
+        {
+            "id": 16,
+            "kami": "立ちわかれ いなばの山の 峰に生ふる",
+            "simo": "まつとし聞かば いまかへりこむ",
+            "kamiKana": "たちわかれ いなばのやまの みねにおふる",
+            "simoKana": "まつとしきかば いまかへりこむ",
+            "author": "中納言行平",
+            "authorKana": "ちゅうなごんゆきひら",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/8/8b/Hyakuninisshu_016.jpg"
+        },
+        {
+            "id": 17,
+            "kami": "ちはやぶる 神代もきかず 竜田川",
+            "simo": "からくれなゐに 水くくるとは",
+            "kamiKana": "ちはやぶる かみよもきかず たつたがは",
+            "simoKana": "からくれなゐに みづくくるとは",
+            "author": "在原業平朝臣",
+            "authorKana": "ありわらのなりひらあそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Hyakuninisshu_017.jpg"
+        },
+        {
+            "id": 18,
+            "kami": "住の江の 岸による波 よるさへや",
+            "simo": "夢のかよひ路 人目よくらむ",
+            "kamiKana": "すみのえの きしによるなみ よるさへや",
+            "simoKana": "ゆめのかよひぢ ひとめよくらむ",
+            "author": "藤原敏行朝臣",
+            "authorKana": "ふじわらのとしゆきあそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/c/c6/Hyakuninisshu_018.jpg"
+        },
+        {
+            "id": 19,
+            "kami": "難波潟 みじかき蘆の ふしのまも",
+            "simo": "あはでこの世を すぐしてよとや",
+            "kamiKana": "なにはがた みじかきあしの ふしのまも",
+            "simoKana": "あはでこのよを すぐしてよとや",
+            "author": "伊勢",
+            "authorKana": "いせ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_019.jpg"
+        },
+        {
+            "id": 20,
+            "kami": "わびぬれば いまはたおなじ 難波なる",
+            "simo": "身をつくしても あはむとぞ思ふ",
+            "kamiKana": "わびぬれば いまはたおなじ なにはなる",
+            "simoKana": "みをつくしても あはむとぞおもふ",
+            "author": "元良親王",
+            "authorKana": "もとよししんのう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/9/97/Hyakuninisshu_020.jpg"
+        },
+        {
+            "id": 21,
+            "kami": "今こむと いひしばかりに 長月の",
+            "simo": "有明の月を まちいでつるかな",
+            "kamiKana": "いまこむと いひしばかりに ながつきの",
+            "simoKana": "ありあけのつきを まちいでつるかな",
+            "author": "素性法師",
+            "authorKana": "そせいほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/3/3b/Hyakuninisshu_021.jpg"
+        },
+        {
+            "id": 22,
+            "kami": "吹くからに 秋の草木の しをるれば",
+            "simo": "むべ山風を 嵐といふらむ",
+            "kamiKana": "ふくからに あきのくさきの しをるれば",
+            "simoKana": "むべやまかぜを あらしといふらむ",
+            "author": "文屋康秀",
+            "authorKana": "ふんやのやすひで",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/1/11/Hyakuninisshu_022.jpg"
+        },
+        {
+            "id": 23,
+            "kami": "月みれば ちぢにものこそ かなしけれ",
+            "simo": "わが身一つの 秋にはあらねど",
+            "kamiKana": "つきみれば ちぢにものこそ かなしけれ",
+            "simoKana": "わがみひとつの あきにはあらねど",
+            "author": "大江千里",
+            "authorKana": "おおえのちさと",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Hyakuninisshu_023.jpg"
+        },
+        {
+            "id": 24,
+            "kami": "このたびは ぬさもとりあへず 手向山",
+            "simo": "もみぢのにしき 神のまにまに",
+            "kamiKana": "このたびは ぬさもとりあへず たむけやま",
+            "simoKana": "もみぢのにしき かみのまにまに",
+            "author": "菅家",
+            "authorKana": "かんけ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/01/Hyakuninisshu_024.jpg"
+        },
+        {
+            "id": 25,
+            "kami": "名にし負はば 逢坂山の さねかづら",
+            "simo": "人にしられで 来るよしもがな",
+            "kamiKana": "なにしおはば あふさかやまの さねかづら",
+            "simoKana": "ひとにしられで くるよしもがな",
+            "author": "三条右大臣",
+            "authorKana": "さんじょうのうだいじん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Hyakuninisshu_025.jpg"
+        },
+        {
+            "id": 26,
+            "kami": "小倉山 峰のもみぢ葉 心あらば",
+            "simo": "いまひとたびの みゆきまたなむ",
+            "kamiKana": "をぐらやま みねのもみぢば こころあらば",
+            "simoKana": "いまひとたびの みゆきまたなむ",
+            "author": "貞信公",
+            "authorKana": "ていしんこう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Hyakuninisshu_026.jpg"
+        },
+        {
+            "id": 27,
+            "kami": "みかの原 わきて流るる いづみ川",
+            "simo": "いつみきとてか 恋しかるらむ",
+            "kamiKana": "みかのはら わきてながるる いづみがは",
+            "simoKana": "いつみきとてか こひしかるらむ",
+            "author": "中納言兼輔",
+            "authorKana": "ちゅうなごんかねすけ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_027.jpg"
+        },
+        {
+            "id": 28,
+            "kami": "山里は 冬ぞさびしさ まさりける",
+            "simo": "人目も草も かれぬと思へば",
+            "kamiKana": "やまざとは ふゆぞさびしさ まさりける",
+            "simoKana": "ひとめもくさも かれぬとおもへば",
+            "author": "源宗行朝臣",
+            "authorKana": "みなもとのむねゆきあそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/a/af/Hyakuninisshu_028.jpg"
+        },
+        {
+            "id": 29,
+            "kami": "心当てに 折らばや折らむ 初霜の",
+            "simo": "おきまどはせる 白菊の花",
+            "kamiKana": "こころあてに をらばやをらむ はつしもの",
+            "simoKana": "おきまどはせる しらぎくのはな",
+            "author": "凡河内躬恒",
+            "authorKana": "おおしこうちのみつね",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Hyakuninisshu_029.jpg"
+        },
+        {
+            "id": 30,
+            "kami": "有明の つれなく見えし 別れより",
+            "simo": "あかつきばかり うきものはなし",
+            "kamiKana": "ありあけの つれなくみえし わかれより",
+            "simoKana": "あかつきばかり うきものはなし",
+            "author": "壬生忠岑",
+            "authorKana": "みぶのただみね",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/8/8a/Hyakuninisshu_030.jpg"
+        },
+        {
+            "id": 31,
+            "kami": "朝ぼらけ 有明の月と 見るまでに",
+            "simo": "吉野の里に 降れる白雪",
+            "kamiKana": "あさぼらけ ありあけのつきと みるまでに",
+            "simoKana": "よしののさとに ふれるしらゆき",
+            "author": "坂上是則",
+            "authorKana": "さかのうえのこれのり",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/c/ce/Hyakuninisshu_031.jpg"
+        },
+        {
+            "id": 32,
+            "kami": "山川に 風のかけたる しがらみは",
+            "simo": "ながれもあへぬ もみぢなりけり",
+            "kamiKana": "やまがはに かぜのかけたる しがらみは",
+            "simoKana": "ながれもあへぬ もみぢなりけり",
+            "author": "春道列樹",
+            "authorKana": "はるみちのつらき",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/a/a6/Hyakuninisshu_032.jpg"
+        },
+        {
+            "id": 33,
+            "kami": "久方の 光のどけき 春の日に",
+            "simo": "しづ心なく 花の散るらむ",
+            "kamiKana": "ひさかたの ひかりのどけき はるのひに",
+            "simoKana": "しづこころなく はなのちるらむ",
+            "author": "紀友則",
+            "authorKana": "きのとものり",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/e/ef/Hyakuninisshu_033.jpg"
+        },
+        {
+            "id": 34,
+            "kami": "誰をかも しる人にせむ 高砂の",
+            "simo": "松も昔の 友ならなくに",
+            "kamiKana": "たれをかも しるひとにせむ たかさごの",
+            "simoKana": "まつもむかしの ともならなくに",
+            "author": "藤原興風",
+            "authorKana": "ふじわらのおきかぜ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Hyakuninisshu_034.jpg"
+        },
+        {
+            "id": 35,
+            "kami": "人はいさ 心も知らず ふるさとは",
+            "simo": "花ぞ昔の 香に匂ひける",
+            "kamiKana": "ひとはいさ こころもしらず ふるさとは",
+            "simoKana": "はなぞむかしの かににほひける",
+            "author": "紀貫之",
+            "authorKana": "きのつらゆき",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/3/32/Hyakuninisshu_035.jpg"
+        },
+        {
+            "id": 36,
+            "kami": "夏の夜は まだ宵ながら あけぬるを",
+            "simo": "雲のいづこに 月やどるらむ",
+            "kamiKana": "なつのよは まだよひながら あけぬるを",
+            "simoKana": "くものいづこに つきやどるらむ",
+            "author": "清原深養父",
+            "authorKana": "きよはらのふかやぶ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/f7/Hyakuninisshu_036.jpg"
+        },
+        {
+            "id": 37,
+            "kami": "白露に 風の吹きしく 秋の野は",
+            "simo": "つらぬきとめぬ 玉ぞ散りける",
+            "kamiKana": "しらつゆに かぜのふきしく あきののは",
+            "simoKana": "つらぬきとめぬ たまぞちりける",
+            "author": "文屋朝康",
+            "authorKana": "ふんやのあさやす",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Hyakuninisshu_037.jpg"
+        },
+        {
+            "id": 38,
+            "kami": "忘らるる 身をば思はず ちかひてし",
+            "simo": "人の命の 惜しくもあるかな",
+            "kamiKana": "わすらるる みをばおもはず ちかひてし",
+            "simoKana": "ひとのいのちの をしくもあるかな",
+            "author": "右近",
+            "authorKana": "うこん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/a/a5/Hyakuninisshu_038.jpg"
+        },
+        {
+            "id": 39,
+            "kami": "浅茅生の 小野の篠原 しのぶれど",
+            "simo": "あまりてなどか 人の恋しき",
+            "kamiKana": "あさぢふの をののしのはら しのぶれど",
+            "simoKana": "あまりてなどか ひとのこひしき",
+            "author": "参議等",
+            "authorKana": "さんぎひとし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_039.jpg"
+        },
+        {
+            "id": 40,
+            "kami": "しのぶれど 色に出でにけり 我が恋は",
+            "simo": "物や思ふと 人の問ふまで",
+            "kamiKana": "しのぶれど いろにいでにけり わがこひは",
+            "simoKana": "ものやおもふと ひとのとふまで",
+            "author": "平兼盛",
+            "authorKana": "たいらのかねもり",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_040.jpg"
+        },
+        {
+            "id": 41,
+            "kami": "恋すてふ 我が名はまだき 立ちにけり",
+            "simo": "人しれずこそ 思ひそめしか",
+            "kamiKana": "こひすてふ わがなはまだき たちにけり",
+            "simoKana": "ひとしれずこそ おもひそめしか",
+            "author": "壬生忠見",
+            "authorKana": "みぶのただみ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/6/61/Hyakuninisshu_041.jpg"
+        },
+        {
+            "id": 42,
+            "kami": "ちぎりきな かたみに袖を しぼりつつ",
+            "simo": "末の松山 波こさじとは",
+            "kamiKana": "ちぎりきな かたみにそでを しぼりつつ",
+            "simoKana": "すゑのまつやま なみこさじとは",
+            "author": "清原元輔",
+            "authorKana": "きよはらのもとすけ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/5/54/Hyakuninisshu_042.jpg"
+        },
+        {
+            "id": 43,
+            "kami": "あひみての のちの心に くらぶれば",
+            "simo": "昔は物を 思はざりけり",
+            "kamiKana": "あひみての のちのこころに くらぶれば",
+            "simoKana": "むかしはものを おもはざりけり",
+            "author": "権中納言敦忠",
+            "authorKana": "ごんちゅうなごんあつただ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/2a/Hyakuninisshu_043.jpg"
+        },
+        {
+            "id": 44,
+            "kami": "あふことの たえてしなくば なかなかに",
+            "simo": "人をも身をも 恨みざらまし",
+            "kamiKana": "あふことの たえてしなくば なかなかに",
+            "simoKana": "ひとをもみをも うらみざらまし",
+            "author": "中納言朝忠",
+            "authorKana": "ちゅうなごんあさただ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Hyakuninisshu_044.jpg"
+        },
+        {
+            "id": 45,
+            "kami": "あはれとも いふべき人は 思ほえで",
+            "simo": "身のいたづらに なりぬべきかな",
+            "kamiKana": "あはれとも いふべきひとは おもほえで",
+            "simoKana": "みのいたづらに なりぬべきかな",
+            "author": "謙徳公",
+            "authorKana": "けんとくこう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/4/40/Hyakuninisshu_045.jpg"
+        },
+        {
+            "id": 46,
+            "kami": "由良のとを 渡る舟人 かぢをたえ",
+            "simo": "ゆくへも知らぬ 恋の道かな",
+            "kamiKana": "ゆらのとを わたるふなびと かぢをたえ",
+            "simoKana": "ゆくへもしらぬ こひのみちかな",
+            "author": "曽禰好忠",
+            "authorKana": "そねのよしただ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/5/5a/Hyakuninisshu_046.jpg"
+        },
+        {
+            "id": 47,
+            "kami": "八重むぐら しげれる宿の さびしきに",
+            "simo": "人こそ見えね 秋は来にけり",
+            "kamiKana": "やへむぐら しげれるやどの さびしきに",
+            "simoKana": "ひとこそみえね あきはきにけり",
+            "author": "恵慶法師",
+            "authorKana": "えぎょうほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Hyakuninisshu_047.jpg"
+        },
+        {
+            "id": 48,
+            "kami": "風をいたみ 岩うつ波の おのれのみ",
+            "simo": "くだけて物を 思ふころかな",
+            "kamiKana": "かぜをいたみ いはうつなみの おのれのみ",
+            "simoKana": "くだけてものを おもふころかな",
+            "author": "源重之",
+            "authorKana": "みなもとのしげゆき",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/9/97/Hyakuninisshu_048.jpg"
+        },
+        {
+            "id": 49,
+            "kami": "みかきもり 衛士のたく火の 夜はもえ",
+            "simo": "昼は消えつつ 物をこそ思へ",
+            "kamiKana": "みかきもり ゑじのたくひの よるはもえ",
+            "simoKana": "ひるはきえつつ ものをこそおもへ",
+            "author": "大中臣能宣朝臣",
+            "authorKana": "おおなかとみのよしのぶあそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Hyakuninisshu_049.jpg"
+        },
+        {
+            "id": 50,
+            "kami": "君がため 惜しからざりし いのちさへ",
+            "simo": "長くもがなと 思ひけるかな",
+            "kamiKana": "きみがため をしからざりし いのちさへ",
+            "simoKana": "ながくもがなと おもひけるかな",
+            "author": "藤原義孝",
+            "authorKana": "ふじわらのよしたか",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_050.jpg"
+        },
+        {
+            "id": 51,
+            "kami": "かくとだに えやはいぶきの さしも草",
+            "simo": "さしもしらじな もゆる思ひを",
+            "kamiKana": "かくとだに えやはいぶきの さしもぐさ",
+            "simoKana": "さしもしらじな もゆるおもひを",
+            "author": "藤原実方朝臣",
+            "authorKana": "ふじわらのさねかたあそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/4/48/Hyakuninisshu_051.jpg"
+        },
+        {
+            "id": 52,
+            "kami": "あけぬれば 暮るるものとは 知りながら",
+            "simo": "なほうらめしき 朝ぼらけかな",
+            "kamiKana": "あけぬれば くるるものとは しりながら",
+            "simoKana": "なほうらめしき あさぼらけかな",
+            "author": "藤原道信朝臣",
+            "authorKana": "ふじわらのみちのぶあそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/08/Hyakuninisshu_052.jpg"
+        },
+        {
+            "id": 53,
+            "kami": "なげきつつ ひとりぬる夜の あくるまは",
+            "simo": "いかに久しき ものとかはしる",
+            "kamiKana": "なげきつつ ひとりぬるよの あくるまは",
+            "simoKana": "いかにひさしき ものとかはしる",
+            "author": "右大将道綱母",
+            "authorKana": "うだいしょうみちつなのはは",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/02/Hyakuninisshu_053.jpg"
+        },
+        {
+            "id": 54,
+            "kami": "忘れじの ゆく末までは かたければ",
+            "simo": "今日をかぎりの いのちともがな",
+            "kamiKana": "わすれじの ゆくすゑまでは かたければ",
+            "simoKana": "けふをかぎりの いのちともがな",
+            "author": "儀同三司母",
+            "authorKana": "ぎどうさんしのはは",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Hyakuninisshu_054.jpg"
+        },
+        {
+            "id": 55,
+            "kami": "滝の音は たえて久しく なりぬれど",
+            "simo": "名こそ流れて なほ聞こえけれ",
+            "kamiKana": "たきのおとは たえてひさしく なりぬれど",
+            "simoKana": "なこそながれて なほきこえけれ",
+            "author": "大納言公任",
+            "authorKana": "だいなごんきんとう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/3/31/Hyakuninisshu_055.jpg"
+        },
+        {
+            "id": 56,
+            "kami": "あらざらむ この世のほかの 思ひ出に",
+            "simo": "いまひとたびの あふこともがな",
+            "kamiKana": "あらざらむ このよのほかの おもひでに",
+            "simoKana": "いまひとたびの あふこともがな",
+            "author": "和泉式部",
+            "authorKana": "いずみしきぶ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/9/99/Hyakuninisshu_056.jpg"
+        },
+        {
+            "id": 57,
+            "kami": "めぐりあひて 見しやそれとも わかぬまに",
+            "simo": "雲がくれにし 夜半の月かな",
+            "kamiKana": "めぐりあひて みしやそれとも わかぬまに",
+            "simoKana": "くもがくれにし よはのつきかな",
+            "author": "紫式部",
+            "authorKana": "むらさきしきぶ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/1/13/Hyakuninisshu_057.jpg"
+        },
+        {
+            "id": 58,
+            "kami": "ありま山 ゐなの笹原 風吹けば",
+            "simo": "いでそよ人を 忘れやはする",
+            "kamiKana": "ありまやま ゐなのささはら かぜふけば",
+            "simoKana": "いでそよひとを わすれやはする",
+            "author": "大弐三位",
+            "authorKana": "だいにのさんみ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/7/71/Hyakuninisshu_058.jpg"
+        },
+        {
+            "id": 59,
+            "kami": "やすらはで 寝なましものを さ夜ふけて",
+            "simo": "かたぶくまでの 月を見しかな",
+            "kamiKana": "やすらはで ねなましものを さよふけて",
+            "simoKana": "かたぶくまでの つきをみしかな",
+            "author": "赤染衛門",
+            "authorKana": "あかぞめえもん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Hyakuninisshu_059.jpg"
+        },
+        {
+            "id": 60,
+            "kami": "大江山 いく野の道の 遠ければ",
+            "simo": "まだふみもみず 天の橋立",
+            "kamiKana": "おほえやま いくののみちの とほければ",
+            "simoKana": "まだふみもみず あまのはしだて",
+            "author": "小式部内侍",
+            "authorKana": "こしきぶのないし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/a/ae/Hyakuninisshu_060.jpg"
+        },
+        {
+            "id": 61,
+            "kami": "いにしへの 奈良の都の 八重桜",
+            "simo": "けふ九重に 匂ひぬるかな",
+            "kamiKana": "いにしへの ならのみやこの やへざくら",
+            "simoKana": "けふここのへに にほひぬるかな",
+            "author": "伊勢大輔",
+            "authorKana": "いせのたいふ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/fb/Hyakuninisshu_061.jpg"
+        },
+        {
+            "id": 62,
+            "kami": "夜をこめて 鳥のそらねは はかるとも",
+            "simo": "よに逢坂の 関はゆるさじ",
+            "kamiKana": "よをこめて とりのそらねは はかるとも",
+            "simoKana": "よにあふさかの せきはゆるさじ",
+            "author": "清少納言",
+            "authorKana": "せいしょうなごん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/d/d7/Hyakuninisshu_062.jpg"
+        },
+        {
+            "id": 63,
+            "kami": "いまはただ 思ひ絶えなむ とばかりを",
+            "simo": "人づてならで 言ふよしもがな",
+            "kamiKana": "いまはただ おもひたえなむ とばかりを",
+            "simoKana": "ひとづてならで いふよしもがな",
+            "author": "左京大夫道雅",
+            "authorKana": "さきょうのだいぶみちまさ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/b/be/Hyakuninisshu_063.jpg"
+        },
+        {
+            "id": 64,
+            "kami": "朝ぼらけ 宇治の川霧 絶え絶えに",
+            "simo": "あらはれわたる 瀬々の網代木",
+            "kamiKana": "あさぼらけ うぢのかはぎり たえだえに",
+            "simoKana": "あらはれわたる せぜのあじろぎ",
+            "author": "権中納言定頼",
+            "authorKana": "ごんちゅうなごんさだより",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/25/Hyakuninisshu_064.jpg"
+        },
+        {
+            "id": 65,
+            "kami": "うらみわび ほさぬ袖だに あるものを",
+            "simo": "恋にくちなむ 名こそをしけれ",
+            "kamiKana": "うらみわび ほさぬそでだに あるものを",
+            "simoKana": "こひにくちなむ なこそをしけれ",
+            "author": "相模",
+            "authorKana": "さがみ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/5/51/Hyakuninisshu_065.jpg"
+        },
+        {
+            "id": 66,
+            "kami": "もろともに あはれと思へ 山桜",
+            "simo": "花よりほかに 知る人もなし",
+            "kamiKana": "もろともに あはれとおもへ やまざくら",
+            "simoKana": "はなよりほかに しるひともなし",
+            "author": "前大僧正行尊",
+            "authorKana": "さきのだいそうじょうぎょうそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/26/Hyakuninisshu_066.jpg"
+        },
+        {
+            "id": 67,
+            "kami": "春の夜の 夢ばかりなる 手枕に",
+            "simo": "かひなくたたむ 名こそをしけれ",
+            "kamiKana": "はるのよの ゆめばかりなる たまくらに",
+            "simoKana": "かひなくたたむ なこそをしけれ",
+            "author": "周防内侍",
+            "authorKana": "すおうのないし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/9/93/Hyakuninisshu_067.jpg"
+        },
+        {
+            "id": 68,
+            "kami": "心にも あらでうき世に ながらへば",
+            "simo": "恋しかるべき 夜半の月かな",
+            "kamiKana": "こころにも あらでうきよに ながらへば",
+            "simoKana": "こひしかるべき よはのつきかな",
+            "author": "三条院",
+            "authorKana": "さんじょういん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/0e/Hyakuninisshu_068.jpg"
+        },
+        {
+            "id": 69,
+            "kami": "あらし吹く み室の山の もみぢばは",
+            "simo": "竜田の川の 錦なりけり",
+            "kamiKana": "あらしふく みむろのやまの もみぢばは",
+            "simoKana": "たつたのかはの にしきなりけり",
+            "author": "能因法師",
+            "authorKana": "のういんほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/d/d9/Hyakuninisshu_069.jpg"
+        },
+        {
+            "id": 70,
+            "kami": "さびしさに 宿を立ち出でて ながむれば",
+            "simo": "いづくもおなじ 秋の夕ぐれ",
+            "kamiKana": "さびしさに やどをたちいでて ながむれば",
+            "simoKana": "いづくもおなじ あきのゆふぐれ",
+            "author": "良選法師",
+            "authorKana": "りょうぜんほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/7/75/Hyakuninisshu_070.jpg"
+        },
+        {
+            "id": 71,
+            "kami": "夕されば 門田の稲葉 おとづれて",
+            "simo": "蘆のまろやに 秋風ぞ吹く",
+            "kamiKana": "ゆふされば かどたのいなば おとづれて",
+            "simoKana": "あしのまろやに あきかぜぞふく",
+            "author": "大納言経信",
+            "authorKana": "だいなごんつねのぶ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Hyakuninisshu_071.jpg"
+        },
+        {
+            "id": 72,
+            "kami": "音に聞く 高師の浜の あだ波は",
+            "simo": "かけじや袖の ぬれもこそすれ",
+            "kamiKana": "おとにきく たかしのはまの あだなみは",
+            "simoKana": "かけじやそでの ぬれもこそすれ",
+            "author": "祐子内親王家紀伊",
+            "authorKana": "ゆうしないしんのうけのきい",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/2b/Hyakuninisshu_072.jpg"
+        },
+        {
+            "id": 73,
+            "kami": "高砂の をのへのさくら さきにけり",
+            "simo": "とやまのかすみ たたずもあらなむ",
+            "kamiKana": "たかさごの をのへのさくら さきにけり",
+            "simoKana": "とやまのかすみ たたずもあらなむ",
+            "author": "前権中納言匡房",
+            "authorKana": "さきのごんちゅうなごんまさふさ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/a/a2/Hyakuninisshu_073.jpg"
+        },
+        {
+            "id": 74,
+            "kami": "憂かりける 人を初瀬の 山おろしよ",
+            "simo": "はげしかれとは 祈らぬものを",
+            "kamiKana": "うかりける ひとをはつせの やまおろしよ",
+            "simoKana": "はげしかれとは いのらぬものを",
+            "author": "源俊頼朝臣",
+            "authorKana": "みなもとのとしよりあそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/00/Hyakuninisshu_074.jpg"
+        },
+        {
+            "id": 75,
+            "kami": "ちぎりおきし させもが露を いのちにて",
+            "simo": "あはれ今年の 秋もいぬめり",
+            "kamiKana": "ちぎりおきし させもがつゆを いのちにて",
+            "simoKana": "あはれことしの あきもいぬめり",
+            "author": "藤原基俊",
+            "authorKana": "ふじわらのもととし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/5/55/Hyakuninisshu_075.jpg"
+        },
+        {
+            "id": 76,
+            "kami": "わたの原 こぎいでてみれば 久方の",
+            "simo": "雲いにまがふ 沖つ白波",
+            "kamiKana": "わたのはら こぎいでてみれば ひさかたの",
+            "simoKana": "くもゐにまがふ おきつしらなみ",
+            "author": "法性寺入道前関白太政大臣",
+            "authorKana": "ほつしょうじにゅうどうさきの かんぱくだいじょうだいじん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/d/da/Hyakuninisshu_076.jpg"
+        },
+        {
+            "id": 77,
+            "kami": "瀬をはやみ 岩にせかるる 滝川の",
+            "simo": "われても末に あはむとぞ思ふ",
+            "kamiKana": "せをはやみ いはにせかるる たきがはの",
+            "simoKana": "われてもすゑに あはむとぞおもふ",
+            "author": "崇徳院",
+            "authorKana": "すとくいん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/e/e2/Hyakuninisshu_077.jpg"
+        },
+        {
+            "id": 78,
+            "kami": "淡路島 かよふ千鳥の 鳴く声に",
+            "simo": "幾夜ねざめぬ 須磨の関守",
+            "kamiKana": "あはぢしま かよふちどりの なくこゑに",
+            "simoKana": "いくよねざめぬ すまのせきもり",
+            "author": "源兼昌",
+            "authorKana": "みなもとのかねまさ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/b/bf/Hyakuninisshu_078.jpg"
+        },
+        {
+            "id": 79,
+            "kami": "秋風に たなびく雲の たえ間より",
+            "simo": "もれいづる月の 影のさやけさ",
+            "kamiKana": "あきかぜに たなびくくもの たえまより",
+            "simoKana": "もれいづるつきの かげのさやけさ",
+            "author": "左京大夫顕輔",
+            "authorKana": "さきょうのだいぶあきすけ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/1/1d/Hyakuninisshu_079.jpg"
+        },
+        {
+            "id": 80,
+            "kami": "長からむ 心もしらず 黒髪の",
+            "simo": "みだれてけさは 物をこそ思へ",
+            "kamiKana": "ながからむ こころもしらず くろかみの",
+            "simoKana": "みだれてけさは ものをこそおもへ",
+            "author": "待賢門院堀河",
+            "authorKana": "たいけんもんいんほりかわ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Hyakuninisshu_080.jpg"
+        },
+        {
+            "id": 81,
+            "kami": "ほととぎす 鳴きつる方を ながむれば",
+            "simo": "ただありあけの 月ぞ残れる",
+            "kamiKana": "ほととぎす なきつるかたを ながむれば",
+            "simoKana": "ただありあけの つきぞのこれる",
+            "author": "後徳大寺左大臣",
+            "authorKana": "ごとくだいじさだいじん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/d/da/Hyakuninisshu_081.jpg"
+        },
+        {
+            "id": 82,
+            "kami": "思ひわび さてもいのちは あるものを",
+            "simo": "憂きにたへぬは 涙なりけり",
+            "kamiKana": "おもひわび さてもいのちは あるものを",
+            "simoKana": "うきにたへぬは なみだなりけり",
+            "author": "道因法師",
+            "authorKana": "どういんほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Hyakuninisshu_082.jpg"
+        },
+        {
+            "id": 83,
+            "kami": "世の中よ 道こそなけれ 思ひ入る",
+            "simo": "山の奥にも 鹿ぞ鳴くなる",
+            "kamiKana": "よのなかよ みちこそなけれ おもひいる",
+            "simoKana": "やまのおくにも しかぞなくなる",
+            "author": "皇太后宮大夫俊成",
+            "authorKana": "こうたいごうぐうのだいぶしゅんぜい",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/b/be/Hyakuninisshu_083.jpg"
+        },
+        {
+            "id": 84,
+            "kami": "ながらへば またこのごろや しのばれむ",
+            "simo": "憂しと見し世ぞ 今は恋しき",
+            "kamiKana": "ながらへば またこのごろや しのばれむ",
+            "simoKana": "うしとみしよぞ いまはこひしき",
+            "author": "藤原清輔朝臣",
+            "authorKana": "ふじわらのきよすけあそん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/05/Hyakuninisshu_084.jpg"
+        },
+        {
+            "id": 85,
+            "kami": "夜もすがら 物思ふころは 明けやらで",
+            "simo": "閨のひまさへ つれなかりけり",
+            "kamiKana": "よもすがら ものおもふころは あけやらで",
+            "simoKana": "ねやのひまさへ つれなかりけり",
+            "author": "俊恵法師",
+            "authorKana": "しゅんえほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/06/Hyakuninisshu_085.jpg"
+        },
+        {
+            "id": 86,
+            "kami": "なげけとて 月やは物を 思はする",
+            "simo": "かこち顔なる わが涙かな",
+            "kamiKana": "なげけとて つきやはものを おもはする",
+            "simoKana": "かこちがほなる わがなみだかな",
+            "author": "西行法師",
+            "authorKana": "さいぎょうほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/6/61/Hyakuninisshu_086.jpg"
+        },
+        {
+            "id": 87,
+            "kami": "村雨の 露もまだひぬ まきの葉に",
+            "simo": "霧たちのぼる 秋の夕ぐれ",
+            "kamiKana": "むらさめの つゆもまだひぬ まきのはに",
+            "simoKana": "きりたちのぼる あきのゆふぐれ",
+            "author": "寂蓮法師",
+            "authorKana": "じゃくれんほうし",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Hyakuninisshu_087.jpg"
+        },
+        {
+            "id": 88,
+            "kami": "難波江の 蘆のかりねの ひとよゆゑ",
+            "simo": "みをつくしてや 恋ひわたるべき",
+            "kamiKana": "なにはえの あしのかりねの ひとよゆゑ",
+            "simoKana": "みをつくしてや こひわたるべき",
+            "author": "皇嘉門院別当",
+            "authorKana": "こうかもんいんのべつとう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/4/4c/Hyakuninisshu_088.jpg"
+        },
+        {
+            "id": 89,
+            "kami": "玉の緒よ たえなばたえね ながらへば",
+            "simo": "忍ぶることの 弱りもぞする",
+            "kamiKana": "たまのをよ たえなばたえね ながらへば",
+            "simoKana": "しのぶることの よわりもぞする",
+            "author": "式子内親王",
+            "authorKana": "しきしないしんのう",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/b/b1/Hyakuninisshu_089.jpg"
+        },
+        {
+            "id": 90,
+            "kami": "見せばやな 雄島のあまの 袖だにも",
+            "simo": "ぬれにぞぬれし 色はかはらず",
+            "kamiKana": "みせばやな をじまのあまの そでだにも",
+            "simoKana": "ぬれにぞぬれし いろはかはらず",
+            "author": "殷富門院大輔",
+            "authorKana": "いんぶもんいんのたいふ",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/8/82/Hyakuninisshu_090.jpg"
+        },
+        {
+            "id": 91,
+            "kami": "きりぎりす 鳴くや霜夜の さむしろに",
+            "simo": "衣かたしき ひとりかも寝む",
+            "kamiKana": "きりぎりす なくやしもよの さむしろに",
+            "simoKana": "ころもかたしき ひとりかもねむ",
+            "author": "後京極摂政前太政大臣",
+            "authorKana": "ごきょうごくせっしょうさきのだいじょうだいじん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Hyakuninisshu_091.jpg"
+        },
+        {
+            "id": 92,
+            "kami": "わが袖は 潮干にみえぬ 沖の石の",
+            "simo": "人こそしらね かわくまもなし",
+            "kamiKana": "わがそでは しほひにみえぬ おきのいしの",
+            "simoKana": "ひとこそしらね かわくまもなし",
+            "author": "二条院讃岐",
+            "authorKana": "にじょういんのさぬき",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Hyakuninisshu_092.jpg"
+        },
+        {
+            "id": 93,
+            "kami": "世の中は つねにもがもな なぎさこぐ",
+            "simo": "あまの小舟の 綱手かなしも",
+            "kamiKana": "よのなかは つねにもがもな なぎさこぐ",
+            "simoKana": "あまのをぶねの つなでかなしも",
+            "author": "鎌倉右大臣",
+            "authorKana": "かまくらのうだいじん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Hyakuninisshu_093.jpg"
+        },
+        {
+            "id": 94,
+            "kami": "み吉野の 山の秋風 さ夜ふけて",
+            "simo": "ふるさと寒く 衣うつなり",
+            "kamiKana": "みよしのの やまのあきかぜ さよふけて",
+            "simoKana": "ふるさとさむく ころもうつなり",
+            "author": "参議雅経",
+            "authorKana": "さんぎまさつね",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Hyakuninisshu_094.jpg"
+        },
+        {
+            "id": 95,
+            "kami": "おほけなく うき世の民に おほふかな",
+            "simo": "わがたつ杣に 墨染の袖",
+            "kamiKana": "おほけなく うきよのたみに おほふかな",
+            "simoKana": "わがたつそまに すみぞめのそで",
+            "author": "前大僧正慈円",
+            "authorKana": "さきのだいそうじょうじえん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/a/a6/Hyakuninisshu_095.jpg"
+        },
+        {
+            "id": 96,
+            "kami": "花さそふ 嵐の庭の 雪ならで",
+            "simo": "ふりゆくものは わが身なりけり",
+            "kamiKana": "はなさそふ あらしのにはの ゆきならで",
+            "simoKana": "ふりゆくものは わがみなりけり",
+            "author": "入道前太政大臣",
+            "authorKana": "にゅうどうさきのだいじょうだいじん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/8/83/Hyakuninisshu_096.jpg"
+        },
+        {
+            "id": 97,
+            "kami": "こぬ人を まつほの浦の 夕なぎに",
+            "simo": "焼くやもしほの 身もこがれつつ",
+            "kamiKana": "こぬひとを まつほのうらの ゆふなぎに",
+            "simoKana": "やくやもしほの みもこがれつつ",
+            "author": "権中納言定家",
+            "authorKana": "ごんちゅうなごんていか",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Hyakuninisshu_097.jpg"
+        },
+        {
+            "id": 98,
+            "kami": "風そよぐ ならの小川の 夕ぐれは",
+            "simo": "みそぎぞ夏の しるしなりける",
+            "kamiKana": "かぜそよぐ ならのをがはの ゆふぐれは",
+            "simoKana": "みそぎぞなつの しるしなりける",
+            "author": "従二位家隆",
+            "authorKana": "じゅうにいいえたか",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/00/Hyakuninisshu_098.jpg"
+        },
+        {
+            "id": 99,
+            "kami": "人もをし 人もうらめし あぢきなく",
+            "simo": "世を思ふゆゑに 物思ふ身は",
+            "kamiKana": "ひともをし ひともうらめし あぢきなく",
+            "simoKana": "よをおもふゆゑに ものおもふみは",
+            "author": "後鳥羽院",
+            "authorKana": "ごとばいん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/8/8c/Hyakuninisshu_099.jpg"
+        },
+        {
+            "id": 100,
+            "kami": "ももしきや ふるき軒ばの しのぶにも",
+            "simo": "なほあまりある 昔なりけり",
+            "kamiKana": "ももしきや ふるきのきばの しのぶにも",
+            "simoKana": "なほあまりある むかしなりけり",
+            "author": "順徳院",
+            "authorKana": "じゅんとくいん",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/f/ff/Hyakuninisshu_100.jpg"
+        }
+    ]
+}
