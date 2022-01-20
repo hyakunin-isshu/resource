@@ -6,6 +6,8 @@
             "simo": "我が衣手は 露にぬれつつ",
             "kamiKana": "あきのたの かりほのいほの とまをあらみ",
             "simoKana": "わがころもでは つゆにぬれつつ",
+            "kamiRomaji": "akinotano karihonoihono tomawoarami",
+            "simoRomaji": "wagakoromodeha tsuyuninuretsutsu",
             "author": "天智天皇",
             "authorKana": "てんじてんのう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/04/Hyakuninisshu_001.jpg"
@@ -16,6 +18,8 @@
             "simo": "衣ほすてふ 天の香具山",
             "kamiKana": "はるすぎて なつきにけらし しろたへの",
             "simoKana": "ころもほすてふ あまのかぐやま",
+            "kamiRomaji": "harusugite natsukinikerashi shirotaheno",
+            "simoRomaji": "koromohosutefu amanokaguyama",
             "author": "持統天皇",
             "authorKana": "じとうてんのう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/9/95/Hyakuninisshu_002.jpg"
@@ -26,6 +30,8 @@
             "simo": "ながながし夜を ひとりかも寝む",
             "kamiKana": "あしびきの やまどりのをの しだりをの",
             "simoKana": "ながながしよを ひとりかもねむ",
+            "kamiRomaji": "ashibikino yamadorinowono shidariwono",
+            "simoRomaji": "naganagashiyowo hitorikamonemu",
             "author": "柿本人麻呂",
             "authorKana": "かきのもとのひとまろ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Hyakuninisshu_003.jpg"
@@ -36,6 +42,8 @@
             "simo": "富士の高嶺に 雪は降りつつ",
             "kamiKana": "たごのうらに うちいでてみれば しろたへの",
             "simoKana": "ふじのたかねに ゆきはふりつつ",
+            "kamiRomaji": "tagonourani uchiidetemireba shirotaheno",
+            "simoRomaji": "fujinotakaneni yukihafuritsutsu",
             "author": "山部赤人",
             "authorKana": "やまべのあかひと",
             "image": "http://upload.wikimedia.org/wikipedia/commons/3/37/Hyakuninisshu_004.jpg"
@@ -46,6 +54,8 @@
             "simo": "声聞く時ぞ 秋はかなしき",
             "kamiKana": "おくやまに もみぢふみわけ なくしかの",
             "simoKana": "こゑきくときぞ あきはかなしき",
+            "kamiRomaji": "okuyamani momijifumiwake nakushikano",
+            "simoRomaji": "kowekikutokizo akihakanashiki",
             "author": "猿丸太夫",
             "authorKana": "さるまるだゆう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/c/cd/Hyakuninisshu_005.jpg"
@@ -56,6 +66,8 @@
             "simo": "白きをみれば 夜ぞふけにける",
             "kamiKana": "かささぎの わたせるはしに おくしもの",
             "simoKana": "しろきをみれば よぞふけにける",
+            "kamiRomaji": "kasasagino wataseruhashini okushimono",
+            "simoRomaji": "shirokiwomireba yozofukenikeru",
             "author": "中納言家持",
             "authorKana": "ちゅうなごんやかもち",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Hyakuninisshu_006.jpg"
@@ -66,6 +78,8 @@
             "simo": "三笠の山に いでし月かも",
             "kamiKana": "あまのはら ふりさけみれば かすがなる",
             "simoKana": "みかさのやまに いでしつきかも",
+            "kamiRomaji": "amanohara furisakemireba kasuganaru",
+            "simoRomaji": "mikasanoyamani ideshitsukikamo",
             "author": "阿倍仲麻呂",
             "authorKana": "あべのなかまろ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/4/46/Hyakuninisshu_007.jpg"
@@ -76,6 +90,8 @@
             "simo": "世をうぢ山と 人はいふなり",
             "kamiKana": "わがいほは みやこのたつみ しかぞすむ",
             "simoKana": "よをうぢやまと ひとはいふなり",
+            "kamiRomaji": "wagaihoha miyakonotatsumi shikazosumu",
+            "simoRomaji": "yowoujiyamato hitohaifunari",
             "author": "喜撰法師",
             "authorKana": "きせんほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Hyakuninisshu_008.jpg"
@@ -86,6 +102,8 @@
             "simo": "わが身よにふる ながめせしまに",
             "kamiKana": "はなのいろは うつりにけりな いたづらに",
             "simoKana": "わがみよにふる ながめせしまに",
+            "kamiRomaji": "hananoiroha utsurinikerina itazurani",
+            "simoRomaji": "wagamiyonifuru nagameseshimani",
             "author": "小野小町",
             "authorKana": "おののこまち",
             "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/Hyakuninisshu_009.jpg"
@@ -96,6 +114,8 @@
             "simo": "しるもしらぬも 逢坂の関",
             "kamiKana": "これやこの ゆくもかへるも わかれては",
             "simoKana": "しるもしらぬも あふさかのせき",
+            "kamiRomaji": "koreyakono yukumokaherumo wakareteha",
+            "simoRomaji": "shirumoshiranumo afusakanoseki",
             "author": "蝉丸",
             "authorKana": "せみまる",
             "image": "http://upload.wikimedia.org/wikipedia/commons/2/29/Hyakuninisshu_010.jpg"
@@ -106,6 +126,8 @@
             "simo": "人にはつげよ あまのつり舟",
             "kamiKana": "わたのはら やそしまかけて こぎいでぬと",
             "simoKana": "ひとにはつげよ あまのつりぶね",
+            "kamiRomaji": "watanohara yasoshimakakete kogiidenuto",
+            "simoRomaji": "hitonihatsugeyo amanotsuribune",
             "author": "参議篁",
             "authorKana": "さんぎたかむら",
             "image": "http://upload.wikimedia.org/wikipedia/commons/7/7e/Hyakuninisshu_011.jpg"
@@ -116,6 +138,8 @@
             "simo": "をとめの姿 しばしとどめむ",
             "kamiKana": "あまつかぜ くものかよひぢ ふきとぢよ",
             "simoKana": "をとめのすがた しばしとどめむ",
+            "kamiRomaji": "amatsukaze kumonokayohiji fukitojiyo",
+            "simoRomaji": "wotomenosugata shibashitodomemu",
             "author": "僧正遍昭",
             "authorKana": "そうじょうへんじょう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Hyakuninisshu_012.jpg"
@@ -126,6 +150,8 @@
             "simo": "恋ぞつもりて 淵となりぬる",
             "kamiKana": "つくばねの みねよりおつる みなのがは",
             "simoKana": "こひぞつもりて ふちとなりぬる",
+            "kamiRomaji": "tsukubaneno mineyoriotsuru minanogaha",
+            "simoRomaji": "kohizotsumorite fuchitonarinuru",
             "author": "陽成院",
             "authorKana": "ようぜいいん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_013.jpg"
@@ -136,6 +162,8 @@
             "simo": "みだれそめにし 我ならなくに",
             "kamiKana": "みちのくの しのぶもぢずり たれゆゑに",
             "simoKana": "みだれそめにし われならなくに",
+            "kamiRomaji": "michinokuno shinobumojizuri tareyuweni",
+            "simoRomaji": "midaresomenishi warenaranakuni",
             "author": "河原左大臣",
             "authorKana": "かわらのさだいじん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/Hyakuninisshu_014.jpg"
@@ -146,6 +174,8 @@
             "simo": "わが衣手に 雪はふりつつ",
             "kamiKana": "きみがため はるののにいでて わかなつむ",
             "simoKana": "わがころもでに ゆきはふりつつ",
+            "kamiRomaji": "kimigatame harunononiidete wakanatsumu",
+            "simoRomaji": "wagakoromodeni yukihafuritsutsu",
             "author": "光孝天皇",
             "authorKana": "こうこうてんのう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/05/Hyakuninisshu_015.jpg"
@@ -156,6 +186,8 @@
             "simo": "まつとし聞かば いまかへりこむ",
             "kamiKana": "たちわかれ いなばのやまの みねにおふる",
             "simoKana": "まつとしきかば いまかへりこむ",
+            "kamiRomaji": "tachiwakare inabanoyamano mineniofuru",
+            "simoRomaji": "matsutoshikikaba imakaherikomu",
             "author": "中納言行平",
             "authorKana": "ちゅうなごんゆきひら",
             "image": "http://upload.wikimedia.org/wikipedia/commons/8/8b/Hyakuninisshu_016.jpg"
@@ -166,6 +198,8 @@
             "simo": "からくれなゐに 水くくるとは",
             "kamiKana": "ちはやぶる かみよもきかず たつたがは",
             "simoKana": "からくれなゐに みづくくるとは",
+            "kamiRomaji": "chihayaburu kamiyomokikazu tatsutagaha",
+            "simoRomaji": "karakurenawini mizukukurutoha",
             "author": "在原業平朝臣",
             "authorKana": "ありわらのなりひらあそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Hyakuninisshu_017.jpg"
@@ -176,6 +210,8 @@
             "simo": "夢のかよひ路 人目よくらむ",
             "kamiKana": "すみのえの きしによるなみ よるさへや",
             "simoKana": "ゆめのかよひぢ ひとめよくらむ",
+            "kamiRomaji": "suminoeno kishiniyorunami yorusaheya",
+            "simoRomaji": "yumenokayohiji hitomeyokuramu",
             "author": "藤原敏行朝臣",
             "authorKana": "ふじわらのとしゆきあそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/c/c6/Hyakuninisshu_018.jpg"
@@ -186,6 +222,8 @@
             "simo": "あはでこの世を すぐしてよとや",
             "kamiKana": "なにはがた みじかきあしの ふしのまも",
             "simoKana": "あはでこのよを すぐしてよとや",
+            "kamiRomaji": "nanihagata mijikakiashino fushinomamo",
+            "simoRomaji": "ahadekonoyowo sugushiteyotoya",
             "author": "伊勢",
             "authorKana": "いせ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_019.jpg"
@@ -196,6 +234,8 @@
             "simo": "身をつくしても あはむとぞ思ふ",
             "kamiKana": "わびぬれば いまはたおなじ なにはなる",
             "simoKana": "みをつくしても あはむとぞおもふ",
+            "kamiRomaji": "wabinureba imahataonaji nanihanaru",
+            "simoRomaji": "miwotsukushitemo ahamutozoomofu",
             "author": "元良親王",
             "authorKana": "もとよししんのう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/9/97/Hyakuninisshu_020.jpg"
@@ -206,6 +246,8 @@
             "simo": "有明の月を まちいでつるかな",
             "kamiKana": "いまこむと いひしばかりに ながつきの",
             "simoKana": "ありあけのつきを まちいでつるかな",
+            "kamiRomaji": "imakomuto ihishibakarini nagatsukino",
+            "simoRomaji": "ariakenotsukiwo machiidetsurukana",
             "author": "素性法師",
             "authorKana": "そせいほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/3/3b/Hyakuninisshu_021.jpg"
@@ -216,6 +258,8 @@
             "simo": "むべ山風を 嵐といふらむ",
             "kamiKana": "ふくからに あきのくさきの しをるれば",
             "simoKana": "むべやまかぜを あらしといふらむ",
+            "kamiRomaji": "fukukarani akinokusakino shiworureba",
+            "simoRomaji": "mubeyamakazewo arashitoifuramu",
             "author": "文屋康秀",
             "authorKana": "ふんやのやすひで",
             "image": "http://upload.wikimedia.org/wikipedia/commons/1/11/Hyakuninisshu_022.jpg"
@@ -226,6 +270,8 @@
             "simo": "わが身一つの 秋にはあらねど",
             "kamiKana": "つきみれば ちぢにものこそ かなしけれ",
             "simoKana": "わがみひとつの あきにはあらねど",
+            "kamiRomaji": "tsukimireba chijinimonokoso kanashikere",
+            "simoRomaji": "wagamihitotsuno akinihaaranedo",
             "author": "大江千里",
             "authorKana": "おおえのちさと",
             "image": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Hyakuninisshu_023.jpg"
@@ -236,6 +282,8 @@
             "simo": "もみぢのにしき 神のまにまに",
             "kamiKana": "このたびは ぬさもとりあへず たむけやま",
             "simoKana": "もみぢのにしき かみのまにまに",
+            "kamiRomaji": "konotabiha nusamotoriahezu tamukeyama",
+            "simoRomaji": "momijinonishiki kaminomanimani",
             "author": "菅家",
             "authorKana": "かんけ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/01/Hyakuninisshu_024.jpg"
@@ -246,6 +294,8 @@
             "simo": "人にしられで 来るよしもがな",
             "kamiKana": "なにしおはば あふさかやまの さねかづら",
             "simoKana": "ひとにしられで くるよしもがな",
+            "kamiRomaji": "nanishiohaba afusakayamano sanekazura",
+            "simoRomaji": "hitonishirarede kuruyoshimogana",
             "author": "三条右大臣",
             "authorKana": "さんじょうのうだいじん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Hyakuninisshu_025.jpg"
@@ -256,6 +306,8 @@
             "simo": "いまひとたびの みゆきまたなむ",
             "kamiKana": "をぐらやま みねのもみぢば こころあらば",
             "simoKana": "いまひとたびの みゆきまたなむ",
+            "kamiRomaji": "wogurayama minenomomijiba kokoroaraba",
+            "simoRomaji": "imahitotabino miyukimatanamu",
             "author": "貞信公",
             "authorKana": "ていしんこう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Hyakuninisshu_026.jpg"
@@ -266,6 +318,8 @@
             "simo": "いつみきとてか 恋しかるらむ",
             "kamiKana": "みかのはら わきてながるる いづみがは",
             "simoKana": "いつみきとてか こひしかるらむ",
+            "kamiRomaji": "mikanohara wakitenagaruru izumigaha",
+            "simoRomaji": "itsumikitoteka kohishikaruramu",
             "author": "中納言兼輔",
             "authorKana": "ちゅうなごんかねすけ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_027.jpg"
@@ -276,6 +330,8 @@
             "simo": "人目も草も かれぬと思へば",
             "kamiKana": "やまざとは ふゆぞさびしさ まさりける",
             "simoKana": "ひとめもくさも かれぬとおもへば",
+            "kamiRomaji": "yamazatoha fuyuzosabishisa masarikeru",
+            "simoRomaji": "hitomemokusamo karenutoomoheba",
             "author": "源宗行朝臣",
             "authorKana": "みなもとのむねゆきあそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/a/af/Hyakuninisshu_028.jpg"
@@ -286,6 +342,8 @@
             "simo": "おきまどはせる 白菊の花",
             "kamiKana": "こころあてに をらばやをらむ はつしもの",
             "simoKana": "おきまどはせる しらぎくのはな",
+            "kamiRomaji": "kokoroateni worabayaworamu hatsushimono",
+            "simoRomaji": "okimadohaseru shiragikunohana",
             "author": "凡河内躬恒",
             "authorKana": "おおしこうちのみつね",
             "image": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Hyakuninisshu_029.jpg"
@@ -296,6 +354,8 @@
             "simo": "あかつきばかり うきものはなし",
             "kamiKana": "ありあけの つれなくみえし わかれより",
             "simoKana": "あかつきばかり うきものはなし",
+            "kamiRomaji": "ariakeno tsurenakumieshi wakareyori",
+            "simoRomaji": "akatsukibakari ukimonohanashi",
             "author": "壬生忠岑",
             "authorKana": "みぶのただみね",
             "image": "http://upload.wikimedia.org/wikipedia/commons/8/8a/Hyakuninisshu_030.jpg"
@@ -306,6 +366,8 @@
             "simo": "吉野の里に 降れる白雪",
             "kamiKana": "あさぼらけ ありあけのつきと みるまでに",
             "simoKana": "よしののさとに ふれるしらゆき",
+            "kamiRomaji": "asaborake ariakenotsukito mirumadeni",
+            "simoRomaji": "yoshinonosatoni furerushirayuki",
             "author": "坂上是則",
             "authorKana": "さかのうえのこれのり",
             "image": "http://upload.wikimedia.org/wikipedia/commons/c/ce/Hyakuninisshu_031.jpg"
@@ -316,6 +378,8 @@
             "simo": "ながれもあへぬ もみぢなりけり",
             "kamiKana": "やまがはに かぜのかけたる しがらみは",
             "simoKana": "ながれもあへぬ もみぢなりけり",
+            "kamiRomaji": "yamagahani kazenokaketaru shigaramiha",
+            "simoRomaji": "nagaremoahenu momijinarikeri",
             "author": "春道列樹",
             "authorKana": "はるみちのつらき",
             "image": "http://upload.wikimedia.org/wikipedia/commons/a/a6/Hyakuninisshu_032.jpg"
@@ -326,6 +390,8 @@
             "simo": "しづ心なく 花の散るらむ",
             "kamiKana": "ひさかたの ひかりのどけき はるのひに",
             "simoKana": "しづこころなく はなのちるらむ",
+            "kamiRomaji": "hisakatano hikarinodokeki harunohini",
+            "simoRomaji": "shizukokoronaku hananochiruramu",
             "author": "紀友則",
             "authorKana": "きのとものり",
             "image": "http://upload.wikimedia.org/wikipedia/commons/e/ef/Hyakuninisshu_033.jpg"
@@ -336,6 +402,8 @@
             "simo": "松も昔の 友ならなくに",
             "kamiKana": "たれをかも しるひとにせむ たかさごの",
             "simoKana": "まつもむかしの ともならなくに",
+            "kamiRomaji": "tarewokamo shiruhitonisemu takasagono",
+            "simoRomaji": "matsumomukashino tomonaranakuni",
             "author": "藤原興風",
             "authorKana": "ふじわらのおきかぜ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Hyakuninisshu_034.jpg"
@@ -346,6 +414,8 @@
             "simo": "花ぞ昔の 香に匂ひける",
             "kamiKana": "ひとはいさ こころもしらず ふるさとは",
             "simoKana": "はなぞむかしの かににほひける",
+            "kamiRomaji": "hitohaisa kokoromoshirazu furusatoha",
+            "simoRomaji": "hanazomukashino kaninihohikeru",
             "author": "紀貫之",
             "authorKana": "きのつらゆき",
             "image": "http://upload.wikimedia.org/wikipedia/commons/3/32/Hyakuninisshu_035.jpg"
@@ -356,6 +426,8 @@
             "simo": "雲のいづこに 月やどるらむ",
             "kamiKana": "なつのよは まだよひながら あけぬるを",
             "simoKana": "くものいづこに つきやどるらむ",
+            "kamiRomaji": "natsunoyoha madayohinagara akenuruwo",
+            "simoRomaji": "kumonoizukoni tsukiyadoruramu",
             "author": "清原深養父",
             "authorKana": "きよはらのふかやぶ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/f7/Hyakuninisshu_036.jpg"
@@ -366,6 +438,8 @@
             "simo": "つらぬきとめぬ 玉ぞ散りける",
             "kamiKana": "しらつゆに かぜのふきしく あきののは",
             "simoKana": "つらぬきとめぬ たまぞちりける",
+            "kamiRomaji": "shiratsuyuni kazenofukishiku akinonoha",
+            "simoRomaji": "tsuranukitomenu tamazochirikeru",
             "author": "文屋朝康",
             "authorKana": "ふんやのあさやす",
             "image": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Hyakuninisshu_037.jpg"
@@ -376,6 +450,8 @@
             "simo": "人の命の 惜しくもあるかな",
             "kamiKana": "わすらるる みをばおもはず ちかひてし",
             "simoKana": "ひとのいのちの をしくもあるかな",
+            "kamiRomaji": "wasuraruru miwobaomohazu chikahiteshi",
+            "simoRomaji": "hitonoinochino woshikumoarukana",
             "author": "右近",
             "authorKana": "うこん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/a/a5/Hyakuninisshu_038.jpg"
@@ -386,6 +462,8 @@
             "simo": "あまりてなどか 人の恋しき",
             "kamiKana": "あさぢふの をののしのはら しのぶれど",
             "simoKana": "あまりてなどか ひとのこひしき",
+            "kamiRomaji": "asajifuno wononoshinohara shinoburedo",
+            "simoRomaji": "amaritenadoka hitonokohishiki",
             "author": "参議等",
             "authorKana": "さんぎひとし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_039.jpg"
@@ -396,6 +474,8 @@
             "simo": "物や思ふと 人の問ふまで",
             "kamiKana": "しのぶれど いろにいでにけり わがこひは",
             "simoKana": "ものやおもふと ひとのとふまで",
+            "kamiRomaji": "shinoburedo ironiidenikeri wagakohiha",
+            "simoRomaji": "monoyaomofuto hitonotofumade",
             "author": "平兼盛",
             "authorKana": "たいらのかねもり",
             "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_040.jpg"
@@ -406,6 +486,8 @@
             "simo": "人しれずこそ 思ひそめしか",
             "kamiKana": "こひすてふ わがなはまだき たちにけり",
             "simoKana": "ひとしれずこそ おもひそめしか",
+            "kamiRomaji": "kohisutefu waganahamadaki tachinikeri",
+            "simoRomaji": "hitoshirezukoso omohisomeshika",
             "author": "壬生忠見",
             "authorKana": "みぶのただみ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/6/61/Hyakuninisshu_041.jpg"
@@ -416,6 +498,8 @@
             "simo": "末の松山 波こさじとは",
             "kamiKana": "ちぎりきな かたみにそでを しぼりつつ",
             "simoKana": "すゑのまつやま なみこさじとは",
+            "kamiRomaji": "chigirikina kataminisodewo shiboritsutsu",
+            "simoRomaji": "suwenomatsuyama namikosajitoha",
             "author": "清原元輔",
             "authorKana": "きよはらのもとすけ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/5/54/Hyakuninisshu_042.jpg"
@@ -426,6 +510,8 @@
             "simo": "昔は物を 思はざりけり",
             "kamiKana": "あひみての のちのこころに くらぶれば",
             "simoKana": "むかしはものを おもはざりけり",
+            "kamiRomaji": "ahimiteno nochinokokoroni kurabureba",
+            "simoRomaji": "mukashihamonowo omohazarikeri",
             "author": "権中納言敦忠",
             "authorKana": "ごんちゅうなごんあつただ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/2/2a/Hyakuninisshu_043.jpg"
@@ -436,6 +522,8 @@
             "simo": "人をも身をも 恨みざらまし",
             "kamiKana": "あふことの たえてしなくば なかなかに",
             "simoKana": "ひとをもみをも うらみざらまし",
+            "kamiRomaji": "afukotono taeteshinakuba nakanakani",
+            "simoRomaji": "hitowomomiwomo uramizaramashi",
             "author": "中納言朝忠",
             "authorKana": "ちゅうなごんあさただ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Hyakuninisshu_044.jpg"
@@ -446,6 +534,8 @@
             "simo": "身のいたづらに なりぬべきかな",
             "kamiKana": "あはれとも いふべきひとは おもほえで",
             "simoKana": "みのいたづらに なりぬべきかな",
+            "kamiRomaji": "aharetomo ifubekihitoha omohoede",
+            "simoRomaji": "minoitazurani narinubekikana",
             "author": "謙徳公",
             "authorKana": "けんとくこう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/4/40/Hyakuninisshu_045.jpg"
@@ -456,6 +546,8 @@
             "simo": "ゆくへも知らぬ 恋の道かな",
             "kamiKana": "ゆらのとを わたるふなびと かぢをたえ",
             "simoKana": "ゆくへもしらぬ こひのみちかな",
+            "kamiRomaji": "yuranotowo watarufunabito kajiwotae",
+            "simoRomaji": "yukuhemoshiranu kohinomichikana",
             "author": "曽禰好忠",
             "authorKana": "そねのよしただ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/5/5a/Hyakuninisshu_046.jpg"
@@ -466,6 +558,8 @@
             "simo": "人こそ見えね 秋は来にけり",
             "kamiKana": "やへむぐら しげれるやどの さびしきに",
             "simoKana": "ひとこそみえね あきはきにけり",
+            "kamiRomaji": "yahemugura shigereruyadono sabishikini",
+            "simoRomaji": "hitokosomiene akihakinikeri",
             "author": "恵慶法師",
             "authorKana": "えぎょうほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Hyakuninisshu_047.jpg"
@@ -476,6 +570,8 @@
             "simo": "くだけて物を 思ふころかな",
             "kamiKana": "かぜをいたみ いはうつなみの おのれのみ",
             "simoKana": "くだけてものを おもふころかな",
+            "kamiRomaji": "kazewoitami ihautsunamino onorenomi",
+            "simoRomaji": "kudaketemonowo omofukorokana",
             "author": "源重之",
             "authorKana": "みなもとのしげゆき",
             "image": "http://upload.wikimedia.org/wikipedia/commons/9/97/Hyakuninisshu_048.jpg"
@@ -486,6 +582,8 @@
             "simo": "昼は消えつつ 物をこそ思へ",
             "kamiKana": "みかきもり ゑじのたくひの よるはもえ",
             "simoKana": "ひるはきえつつ ものをこそおもへ",
+            "kamiRomaji": "mikakimori wejinotakuhino yoruhamoe",
+            "simoRomaji": "hiruhakietsutsu monowokosoomohe",
             "author": "大中臣能宣朝臣",
             "authorKana": "おおなかとみのよしのぶあそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Hyakuninisshu_049.jpg"
@@ -496,6 +594,8 @@
             "simo": "長くもがなと 思ひけるかな",
             "kamiKana": "きみがため をしからざりし いのちさへ",
             "simoKana": "ながくもがなと おもひけるかな",
+            "kamiRomaji": "kimigatame woshikarazarishi inochisahe",
+            "simoRomaji": "nagakumoganato omohikerukana",
             "author": "藤原義孝",
             "authorKana": "ふじわらのよしたか",
             "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_050.jpg"
@@ -506,6 +606,8 @@
             "simo": "さしもしらじな もゆる思ひを",
             "kamiKana": "かくとだに えやはいぶきの さしもぐさ",
             "simoKana": "さしもしらじな もゆるおもひを",
+            "kamiRomaji": "kakutodani eyahaibukino sashimogusa",
+            "simoRomaji": "sashimoshirajina moyuruomohiwo",
             "author": "藤原実方朝臣",
             "authorKana": "ふじわらのさねかたあそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/4/48/Hyakuninisshu_051.jpg"
@@ -516,6 +618,8 @@
             "simo": "なほうらめしき 朝ぼらけかな",
             "kamiKana": "あけぬれば くるるものとは しりながら",
             "simoKana": "なほうらめしき あさぼらけかな",
+            "kamiRomaji": "akenureba kururumonotoha shirinagara",
+            "simoRomaji": "nahourameshiki asaborakekana",
             "author": "藤原道信朝臣",
             "authorKana": "ふじわらのみちのぶあそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/08/Hyakuninisshu_052.jpg"
@@ -526,6 +630,8 @@
             "simo": "いかに久しき ものとかはしる",
             "kamiKana": "なげきつつ ひとりぬるよの あくるまは",
             "simoKana": "いかにひさしき ものとかはしる",
+            "kamiRomaji": "nagekitsutsu hitorinuruyono akurumaha",
+            "simoRomaji": "ikanihisashiki monotokahashiru",
             "author": "右大将道綱母",
             "authorKana": "うだいしょうみちつなのはは",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/02/Hyakuninisshu_053.jpg"
@@ -536,6 +642,8 @@
             "simo": "今日をかぎりの いのちともがな",
             "kamiKana": "わすれじの ゆくすゑまでは かたければ",
             "simoKana": "けふをかぎりの いのちともがな",
+            "kamiRomaji": "wasurejino yukusuwemadeha katakereba",
+            "simoRomaji": "kefuwokagirino inochitomogana",
             "author": "儀同三司母",
             "authorKana": "ぎどうさんしのはは",
             "image": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Hyakuninisshu_054.jpg"
@@ -546,6 +654,8 @@
             "simo": "名こそ流れて なほ聞こえけれ",
             "kamiKana": "たきのおとは たえてひさしく なりぬれど",
             "simoKana": "なこそながれて なほきこえけれ",
+            "kamiRomaji": "takinootoha taetehisashiku narinuredo",
+            "simoRomaji": "nakosonagarete nahokikoekere",
             "author": "大納言公任",
             "authorKana": "だいなごんきんとう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/3/31/Hyakuninisshu_055.jpg"
@@ -556,6 +666,8 @@
             "simo": "いまひとたびの あふこともがな",
             "kamiKana": "あらざらむ このよのほかの おもひでに",
             "simoKana": "いまひとたびの あふこともがな",
+            "kamiRomaji": "arazaramu konoyonohokano omohideni",
+            "simoRomaji": "imahitotabino afukotomogana",
             "author": "和泉式部",
             "authorKana": "いずみしきぶ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/9/99/Hyakuninisshu_056.jpg"
@@ -566,6 +678,8 @@
             "simo": "雲がくれにし 夜半の月かな",
             "kamiKana": "めぐりあひて みしやそれとも わかぬまに",
             "simoKana": "くもがくれにし よはのつきかな",
+            "kamiRomaji": "meguriahite mishiyasoretomo wakanumani",
+            "simoRomaji": "kumogakurenishi yohanotsukikana",
             "author": "紫式部",
             "authorKana": "むらさきしきぶ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/1/13/Hyakuninisshu_057.jpg"
@@ -576,6 +690,8 @@
             "simo": "いでそよ人を 忘れやはする",
             "kamiKana": "ありまやま ゐなのささはら かぜふけば",
             "simoKana": "いでそよひとを わすれやはする",
+            "kamiRomaji": "arimayama winanosasahara kazefukeba",
+            "simoRomaji": "idesoyohitowo wasureyahasuru",
             "author": "大弐三位",
             "authorKana": "だいにのさんみ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/7/71/Hyakuninisshu_058.jpg"
@@ -586,6 +702,8 @@
             "simo": "かたぶくまでの 月を見しかな",
             "kamiKana": "やすらはで ねなましものを さよふけて",
             "simoKana": "かたぶくまでの つきをみしかな",
+            "kamiRomaji": "yasurahade nenamashimonowo sayofukete",
+            "simoRomaji": "katabukumadeno tsukiwomishikana",
             "author": "赤染衛門",
             "authorKana": "あかぞめえもん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Hyakuninisshu_059.jpg"
@@ -596,6 +714,8 @@
             "simo": "まだふみもみず 天の橋立",
             "kamiKana": "おほえやま いくののみちの とほければ",
             "simoKana": "まだふみもみず あまのはしだて",
+            "kamiRomaji": "ohoeyama ikunonomichino tohokereba",
+            "simoRomaji": "madafumimomizu amanohashidate",
             "author": "小式部内侍",
             "authorKana": "こしきぶのないし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/a/ae/Hyakuninisshu_060.jpg"
@@ -606,6 +726,8 @@
             "simo": "けふ九重に 匂ひぬるかな",
             "kamiKana": "いにしへの ならのみやこの やへざくら",
             "simoKana": "けふここのへに にほひぬるかな",
+            "kamiRomaji": "inishiheno naranomiyakono yahezakura",
+            "simoRomaji": "kefukokonoheni nihohinurukana",
             "author": "伊勢大輔",
             "authorKana": "いせのたいふ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/fb/Hyakuninisshu_061.jpg"
@@ -616,6 +738,8 @@
             "simo": "よに逢坂の 関はゆるさじ",
             "kamiKana": "よをこめて とりのそらねは はかるとも",
             "simoKana": "よにあふさかの せきはゆるさじ",
+            "kamiRomaji": "yowokomete torinosoraneha hakarutomo",
+            "simoRomaji": "yoniafusakano sekihayurusaji",
             "author": "清少納言",
             "authorKana": "せいしょうなごん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/d/d7/Hyakuninisshu_062.jpg"
@@ -626,6 +750,8 @@
             "simo": "人づてならで 言ふよしもがな",
             "kamiKana": "いまはただ おもひたえなむ とばかりを",
             "simoKana": "ひとづてならで いふよしもがな",
+            "kamiRomaji": "imahatada omohitaenamu tobakariwo",
+            "simoRomaji": "hitozutenarade ifuyoshimogana",
             "author": "左京大夫道雅",
             "authorKana": "さきょうのだいぶみちまさ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/b/be/Hyakuninisshu_063.jpg"
@@ -636,6 +762,8 @@
             "simo": "あらはれわたる 瀬々の網代木",
             "kamiKana": "あさぼらけ うぢのかはぎり たえだえに",
             "simoKana": "あらはれわたる せぜのあじろぎ",
+            "kamiRomaji": "asaborake ujinokahagiri taedaeni",
+            "simoRomaji": "araharewataru sezenoajirogi",
             "author": "権中納言定頼",
             "authorKana": "ごんちゅうなごんさだより",
             "image": "http://upload.wikimedia.org/wikipedia/commons/2/25/Hyakuninisshu_064.jpg"
@@ -646,6 +774,8 @@
             "simo": "恋にくちなむ 名こそをしけれ",
             "kamiKana": "うらみわび ほさぬそでだに あるものを",
             "simoKana": "こひにくちなむ なこそをしけれ",
+            "kamiRomaji": "uramiwabi hosanusodedani arumonowo",
+            "simoRomaji": "kohinikuchinamu nakosowoshikere",
             "author": "相模",
             "authorKana": "さがみ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/5/51/Hyakuninisshu_065.jpg"
@@ -656,6 +786,8 @@
             "simo": "花よりほかに 知る人もなし",
             "kamiKana": "もろともに あはれとおもへ やまざくら",
             "simoKana": "はなよりほかに しるひともなし",
+            "kamiRomaji": "morotomoni aharetoomohe yamazakura",
+            "simoRomaji": "hanayorihokani shiruhitomonashi",
             "author": "前大僧正行尊",
             "authorKana": "さきのだいそうじょうぎょうそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/2/26/Hyakuninisshu_066.jpg"
@@ -666,6 +798,8 @@
             "simo": "かひなくたたむ 名こそをしけれ",
             "kamiKana": "はるのよの ゆめばかりなる たまくらに",
             "simoKana": "かひなくたたむ なこそをしけれ",
+            "kamiRomaji": "harunoyono yumebakarinaru tamakurani",
+            "simoRomaji": "kahinakutatamu nakosowoshikere",
             "author": "周防内侍",
             "authorKana": "すおうのないし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/9/93/Hyakuninisshu_067.jpg"
@@ -676,6 +810,8 @@
             "simo": "恋しかるべき 夜半の月かな",
             "kamiKana": "こころにも あらでうきよに ながらへば",
             "simoKana": "こひしかるべき よはのつきかな",
+            "kamiRomaji": "kokoronimo aradeukiyoni nagaraheba",
+            "simoRomaji": "kohishikarubeki yohanotsukikana",
             "author": "三条院",
             "authorKana": "さんじょういん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/0e/Hyakuninisshu_068.jpg"
@@ -686,6 +822,8 @@
             "simo": "竜田の川の 錦なりけり",
             "kamiKana": "あらしふく みむろのやまの もみぢばは",
             "simoKana": "たつたのかはの にしきなりけり",
+            "kamiRomaji": "arashifuku mimuronoyamano momijibaha",
+            "simoRomaji": "tatsutanokahano nishikinarikeri",
             "author": "能因法師",
             "authorKana": "のういんほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/d/d9/Hyakuninisshu_069.jpg"
@@ -696,6 +834,8 @@
             "simo": "いづくもおなじ 秋の夕ぐれ",
             "kamiKana": "さびしさに やどをたちいでて ながむれば",
             "simoKana": "いづくもおなじ あきのゆふぐれ",
+            "kamiRomaji": "sabishisani yadowotachiidete nagamureba",
+            "simoRomaji": "izukumoonaji akinoyufugure",
             "author": "良選法師",
             "authorKana": "りょうぜんほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/7/75/Hyakuninisshu_070.jpg"
@@ -706,6 +846,8 @@
             "simo": "蘆のまろやに 秋風ぞ吹く",
             "kamiKana": "ゆふされば かどたのいなば おとづれて",
             "simoKana": "あしのまろやに あきかぜぞふく",
+            "kamiRomaji": "yufusareba kadotanoinaba otozurete",
+            "simoRomaji": "ashinomaroyani akikazezofuku",
             "author": "大納言経信",
             "authorKana": "だいなごんつねのぶ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Hyakuninisshu_071.jpg"
@@ -716,6 +858,8 @@
             "simo": "かけじや袖の ぬれもこそすれ",
             "kamiKana": "おとにきく たかしのはまの あだなみは",
             "simoKana": "かけじやそでの ぬれもこそすれ",
+            "kamiRomaji": "otonikiku takashinohamano adanamiha",
+            "simoRomaji": "kakejiyasodeno nuremokososure",
             "author": "祐子内親王家紀伊",
             "authorKana": "ゆうしないしんのうけのきい",
             "image": "http://upload.wikimedia.org/wikipedia/commons/2/2b/Hyakuninisshu_072.jpg"
@@ -726,6 +870,8 @@
             "simo": "とやまのかすみ たたずもあらなむ",
             "kamiKana": "たかさごの をのへのさくら さきにけり",
             "simoKana": "とやまのかすみ たたずもあらなむ",
+            "kamiRomaji": "takasagono wonohenosakura sakinikeri",
+            "simoRomaji": "toyamanokasumi tatazumoaranamu",
             "author": "前権中納言匡房",
             "authorKana": "さきのごんちゅうなごんまさふさ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/a/a2/Hyakuninisshu_073.jpg"
@@ -736,6 +882,8 @@
             "simo": "はげしかれとは 祈らぬものを",
             "kamiKana": "うかりける ひとをはつせの やまおろしよ",
             "simoKana": "はげしかれとは いのらぬものを",
+            "kamiRomaji": "ukarikeru hitowohatsuseno yamaoroshiyo",
+            "simoRomaji": "hageshikaretoha inoranumonowo",
             "author": "源俊頼朝臣",
             "authorKana": "みなもとのとしよりあそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/00/Hyakuninisshu_074.jpg"
@@ -746,6 +894,8 @@
             "simo": "あはれ今年の 秋もいぬめり",
             "kamiKana": "ちぎりおきし させもがつゆを いのちにて",
             "simoKana": "あはれことしの あきもいぬめり",
+            "kamiRomaji": "chigiriokishi sasemogatsuyuwo inochinite",
+            "simoRomaji": "aharekotoshino akimoinumeri",
             "author": "藤原基俊",
             "authorKana": "ふじわらのもととし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/5/55/Hyakuninisshu_075.jpg"
@@ -756,6 +906,8 @@
             "simo": "雲いにまがふ 沖つ白波",
             "kamiKana": "わたのはら こぎいでてみれば ひさかたの",
             "simoKana": "くもゐにまがふ おきつしらなみ",
+            "kamiRomaji": "watanohara kogiidetemireba hisakatano",
+            "simoRomaji": "kumowinimagafu okitsushiranami",
             "author": "法性寺入道前関白太政大臣",
             "authorKana": "ほつしょうじにゅうどうさきの かんぱくだいじょうだいじん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/d/da/Hyakuninisshu_076.jpg"
@@ -766,6 +918,8 @@
             "simo": "われても末に あはむとぞ思ふ",
             "kamiKana": "せをはやみ いはにせかるる たきがはの",
             "simoKana": "われてもすゑに あはむとぞおもふ",
+            "kamiRomaji": "sewohayami ihanisekaruru takigahano",
+            "simoRomaji": "waretemosuweni ahamutozoomofu",
             "author": "崇徳院",
             "authorKana": "すとくいん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/e/e2/Hyakuninisshu_077.jpg"
@@ -776,6 +930,8 @@
             "simo": "幾夜ねざめぬ 須磨の関守",
             "kamiKana": "あはぢしま かよふちどりの なくこゑに",
             "simoKana": "いくよねざめぬ すまのせきもり",
+            "kamiRomaji": "ahajishima kayofuchidorino nakukoweni",
+            "simoRomaji": "ikuyonezamenu sumanosekimori",
             "author": "源兼昌",
             "authorKana": "みなもとのかねまさ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/b/bf/Hyakuninisshu_078.jpg"
@@ -786,6 +942,8 @@
             "simo": "もれいづる月の 影のさやけさ",
             "kamiKana": "あきかぜに たなびくくもの たえまより",
             "simoKana": "もれいづるつきの かげのさやけさ",
+            "kamiRomaji": "akikazeni tanabikukumono taemayori",
+            "simoRomaji": "moreizurutsukino kagenosayakesa",
             "author": "左京大夫顕輔",
             "authorKana": "さきょうのだいぶあきすけ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/1/1d/Hyakuninisshu_079.jpg"
@@ -796,6 +954,8 @@
             "simo": "みだれてけさは 物をこそ思へ",
             "kamiKana": "ながからむ こころもしらず くろかみの",
             "simoKana": "みだれてけさは ものをこそおもへ",
+            "kamiRomaji": "nagakaramu kokoromoshirazu kurokamino",
+            "simoRomaji": "midaretekesaha monowokosoomohe",
             "author": "待賢門院堀河",
             "authorKana": "たいけんもんいんほりかわ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Hyakuninisshu_080.jpg"
@@ -806,6 +966,8 @@
             "simo": "ただありあけの 月ぞ残れる",
             "kamiKana": "ほととぎす なきつるかたを ながむれば",
             "simoKana": "ただありあけの つきぞのこれる",
+            "kamiRomaji": "hototogisu nakitsurukatawo nagamureba",
+            "simoRomaji": "tadaariakeno tsukizonokoreru",
             "author": "後徳大寺左大臣",
             "authorKana": "ごとくだいじさだいじん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/d/da/Hyakuninisshu_081.jpg"
@@ -816,6 +978,8 @@
             "simo": "憂きにたへぬは 涙なりけり",
             "kamiKana": "おもひわび さてもいのちは あるものを",
             "simoKana": "うきにたへぬは なみだなりけり",
+            "kamiRomaji": "omohiwabi satemoinochiha arumonowo",
+            "simoRomaji": "ukinitahenuha namidanarikeri",
             "author": "道因法師",
             "authorKana": "どういんほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Hyakuninisshu_082.jpg"
@@ -826,6 +990,8 @@
             "simo": "山の奥にも 鹿ぞ鳴くなる",
             "kamiKana": "よのなかよ みちこそなけれ おもひいる",
             "simoKana": "やまのおくにも しかぞなくなる",
+            "kamiRomaji": "yononakayo michikosonakere omohiiru",
+            "simoRomaji": "yamanookunimo shikazonakunaru",
             "author": "皇太后宮大夫俊成",
             "authorKana": "こうたいごうぐうのだいぶしゅんぜい",
             "image": "http://upload.wikimedia.org/wikipedia/commons/b/be/Hyakuninisshu_083.jpg"
@@ -836,6 +1002,8 @@
             "simo": "憂しと見し世ぞ 今は恋しき",
             "kamiKana": "ながらへば またこのごろや しのばれむ",
             "simoKana": "うしとみしよぞ いまはこひしき",
+            "kamiRomaji": "nagaraheba matakonogoroya shinobaremu",
+            "simoRomaji": "ushitomishiyozo imahakohishiki",
             "author": "藤原清輔朝臣",
             "authorKana": "ふじわらのきよすけあそん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/05/Hyakuninisshu_084.jpg"
@@ -846,6 +1014,8 @@
             "simo": "閨のひまさへ つれなかりけり",
             "kamiKana": "よもすがら ものおもふころは あけやらで",
             "simoKana": "ねやのひまさへ つれなかりけり",
+            "kamiRomaji": "yomosugara monoomofukoroha akeyarade",
+            "simoRomaji": "neyanohimasahe tsurenakarikeri",
             "author": "俊恵法師",
             "authorKana": "しゅんえほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/06/Hyakuninisshu_085.jpg"
@@ -856,6 +1026,8 @@
             "simo": "かこち顔なる わが涙かな",
             "kamiKana": "なげけとて つきやはものを おもはする",
             "simoKana": "かこちがほなる わがなみだかな",
+            "kamiRomaji": "nageketote tsukiyahamonowo omohasuru",
+            "simoRomaji": "kakochigahonaru waganamidakana",
             "author": "西行法師",
             "authorKana": "さいぎょうほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/6/61/Hyakuninisshu_086.jpg"
@@ -866,6 +1038,8 @@
             "simo": "霧たちのぼる 秋の夕ぐれ",
             "kamiKana": "むらさめの つゆもまだひぬ まきのはに",
             "simoKana": "きりたちのぼる あきのゆふぐれ",
+            "kamiRomaji": "murasameno tsuyumomadahinu makinohani",
+            "simoRomaji": "kiritachinoboru akinoyufugure",
             "author": "寂蓮法師",
             "authorKana": "じゃくれんほうし",
             "image": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Hyakuninisshu_087.jpg"
@@ -876,6 +1050,8 @@
             "simo": "みをつくしてや 恋ひわたるべき",
             "kamiKana": "なにはえの あしのかりねの ひとよゆゑ",
             "simoKana": "みをつくしてや こひわたるべき",
+            "kamiRomaji": "nanihaeno ashinokarineno hitoyoyuwe",
+            "simoRomaji": "miwotsukushiteya kohiwatarubeki",
             "author": "皇嘉門院別当",
             "authorKana": "こうかもんいんのべつとう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/4/4c/Hyakuninisshu_088.jpg"
@@ -886,6 +1062,8 @@
             "simo": "忍ぶることの 弱りもぞする",
             "kamiKana": "たまのをよ たえなばたえね ながらへば",
             "simoKana": "しのぶることの よわりもぞする",
+            "kamiRomaji": "tamanowoyo taenabataene nagaraheba",
+            "simoRomaji": "shinoburukotono yowarimozosuru",
             "author": "式子内親王",
             "authorKana": "しきしないしんのう",
             "image": "http://upload.wikimedia.org/wikipedia/commons/b/b1/Hyakuninisshu_089.jpg"
@@ -896,6 +1074,8 @@
             "simo": "ぬれにぞぬれし 色はかはらず",
             "kamiKana": "みせばやな をじまのあまの そでだにも",
             "simoKana": "ぬれにぞぬれし いろはかはらず",
+            "kamiRomaji": "misebayana wojimanoamano sodedanimo",
+            "simoRomaji": "nurenizonureshi irohakaharazu",
             "author": "殷富門院大輔",
             "authorKana": "いんぶもんいんのたいふ",
             "image": "http://upload.wikimedia.org/wikipedia/commons/8/82/Hyakuninisshu_090.jpg"
@@ -906,6 +1086,8 @@
             "simo": "衣かたしき ひとりかも寝む",
             "kamiKana": "きりぎりす なくやしもよの さむしろに",
             "simoKana": "ころもかたしき ひとりかもねむ",
+            "kamiRomaji": "kirigirisu nakuyashimoyono samushironi",
+            "simoRomaji": "koromokatashiki hitorikamonemu",
             "author": "後京極摂政前太政大臣",
             "authorKana": "ごきょうごくせっしょうさきのだいじょうだいじん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Hyakuninisshu_091.jpg"
@@ -916,6 +1098,8 @@
             "simo": "人こそしらね かわくまもなし",
             "kamiKana": "わがそでは しほひにみえぬ おきのいしの",
             "simoKana": "ひとこそしらね かわくまもなし",
+            "kamiRomaji": "wagasodeha shihohinimienu okinoishino",
+            "simoRomaji": "hitokososhirane kawakumamonashi",
             "author": "二条院讃岐",
             "authorKana": "にじょういんのさぬき",
             "image": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Hyakuninisshu_092.jpg"
@@ -926,6 +1110,8 @@
             "simo": "あまの小舟の 綱手かなしも",
             "kamiKana": "よのなかは つねにもがもな なぎさこぐ",
             "simoKana": "あまのをぶねの つなでかなしも",
+            "kamiRomaji": "yononakaha tsunenimogamona nagisakogu",
+            "simoRomaji": "amanowobuneno tsunadekanashimo",
             "author": "鎌倉右大臣",
             "authorKana": "かまくらのうだいじん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Hyakuninisshu_093.jpg"
@@ -936,6 +1122,8 @@
             "simo": "ふるさと寒く 衣うつなり",
             "kamiKana": "みよしのの やまのあきかぜ さよふけて",
             "simoKana": "ふるさとさむく ころもうつなり",
+            "kamiRomaji": "miyoshinono yamanoakikaze sayofukete",
+            "simoRomaji": "furusatosamuku koromoutsunari",
             "author": "参議雅経",
             "authorKana": "さんぎまさつね",
             "image": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Hyakuninisshu_094.jpg"
@@ -946,6 +1134,8 @@
             "simo": "わがたつ杣に 墨染の袖",
             "kamiKana": "おほけなく うきよのたみに おほふかな",
             "simoKana": "わがたつそまに すみぞめのそで",
+            "kamiRomaji": "ohokenaku ukiyonotamini ohofukana",
+            "simoRomaji": "wagatatsusomani sumizomenosode",
             "author": "前大僧正慈円",
             "authorKana": "さきのだいそうじょうじえん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/a/a6/Hyakuninisshu_095.jpg"
@@ -956,6 +1146,8 @@
             "simo": "ふりゆくものは わが身なりけり",
             "kamiKana": "はなさそふ あらしのにはの ゆきならで",
             "simoKana": "ふりゆくものは わがみなりけり",
+            "kamiRomaji": "hanasasofu arashinonihano yukinarade",
+            "simoRomaji": "furiyukumonoha wagaminarikeri",
             "author": "入道前太政大臣",
             "authorKana": "にゅうどうさきのだいじょうだいじん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/8/83/Hyakuninisshu_096.jpg"
@@ -966,6 +1158,8 @@
             "simo": "焼くやもしほの 身もこがれつつ",
             "kamiKana": "こぬひとを まつほのうらの ゆふなぎに",
             "simoKana": "やくやもしほの みもこがれつつ",
+            "kamiRomaji": "konuhitowo matsuhonourano yufunagini",
+            "simoRomaji": "yakuyamoshihono mimokogaretsutsu",
             "author": "権中納言定家",
             "authorKana": "ごんちゅうなごんていか",
             "image": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Hyakuninisshu_097.jpg"
@@ -976,6 +1170,8 @@
             "simo": "みそぎぞ夏の しるしなりける",
             "kamiKana": "かぜそよぐ ならのをがはの ゆふぐれは",
             "simoKana": "みそぎぞなつの しるしなりける",
+            "kamiRomaji": "kazesoyogu naranowogahano yufugureha",
+            "simoRomaji": "misogizonatsuno shirushinarikeru",
             "author": "従二位家隆",
             "authorKana": "じゅうにいいえたか",
             "image": "http://upload.wikimedia.org/wikipedia/commons/0/00/Hyakuninisshu_098.jpg"
@@ -986,6 +1182,8 @@
             "simo": "世を思ふゆゑに 物思ふ身は",
             "kamiKana": "ひともをし ひともうらめし あぢきなく",
             "simoKana": "よをおもふゆゑに ものおもふみは",
+            "kamiRomaji": "hitomowoshi hitomourameshi ajikinaku",
+            "simoRomaji": "yowoomofuyuweni monoomofumiha",
             "author": "後鳥羽院",
             "authorKana": "ごとばいん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/8/8c/Hyakuninisshu_099.jpg"
@@ -996,6 +1194,8 @@
             "simo": "なほあまりある 昔なりけり",
             "kamiKana": "ももしきや ふるきのきばの しのぶにも",
             "simoKana": "なほあまりある むかしなりけり",
+            "kamiRomaji": "momoshikiya furukinokibano shinobunimo",
+            "simoRomaji": "nahoamariaru mukashinarikeri",
             "author": "順徳院",
             "authorKana": "じゅんとくいん",
             "image": "http://upload.wikimedia.org/wikipedia/commons/f/ff/Hyakuninisshu_100.jpg"
